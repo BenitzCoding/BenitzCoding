@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="code" width="800px" src="https://i.ibb.co/rcW8FzW/carbon-1.png" />
+<img alt="code" width="600px" src="https://i.ibb.co/rcW8FzW/carbon-1.png" />
 
 ## Hello! 👋
 
