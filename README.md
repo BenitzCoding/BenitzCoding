@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img alt="code" width="800px" src="https://i.ibb.co/rcW8FzW/carbon-1.png" />
+
 ## Hello! 👋
 
 I am a Discord Bot Developer, I make Discord Bots and I own 7 Discord Servers and have my own [website](https://benitz-original.ml).
