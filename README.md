@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 
 <img alt="code" width="800px" src="https://i.ibb.co/rcW8FzW/carbon-1.png" />
 
-## Hello! 👋
+# Hello! 👋
 
-I am a Discord Bot Developer, I make Discord Bots and I own 7 Discord Servers and have my own [website](https://benitz-original.ml).
+I am a Discord Bot Developer, I make Discord Bots and I own 7 Discord Servers and have my own [website](https://benitz.me).
 
-## About Me
+# About Me
 
 I am a person who has Discord open the mejourity of the time, I own about 5 Bots. I have my own YouTube Channel. I like Coding and helping people, but I wish one day I can get money out of this.
 
-## Links
+# Links
 
 - [Numix](https://numix.xyz) *(A Public Discord Bot)*
 - [Discord.py For Beginners](https://discord.gg/SWk9de3kys) *(A Discord Server For New Discord Python Developers.)*
 - [Chaotic Lounge](https://discord.gg/hfctyZ5) *(A Public server with 100+ Members.)*
 
-## Stats
+# Stats
 
-[![BentizCoding's github stats](https://github-readme-stats.vercel.app/api?username=BenitzCoding&count_private=true&include_all_commits=true&theme=simple)](https://benitz-original.ml)
+[![BentizCoding's github stats](https://github-readme-stats.vercel.app/api?username=BenitzCoding&count_private=true&include_all_commits=true&theme=simple)](https://benitz.me)
