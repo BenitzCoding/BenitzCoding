@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 # Hello! 👋
 
-I am a Discord Bot Developer, I make Discord Bots and I own 7 Discord Servers and have my own [website](https://benitz.me).
+I am a Discord Bot Developer, I make Discord Bots and I own 7 Discord Servers and have my own [website](https://benitz.me). You can really support me by donating to me, I'm currently broke, so that would really help me out!
+
+<img alt="donate" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" href="https://www.paypal.com/donate?business=benitzoriginal%40yahoo.com&no_recurring=0&currency_code=USD" />
 
 # About Me
 
