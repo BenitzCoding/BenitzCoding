@@ -68,6 +68,22 @@ Plan:
   - Doing something ig ._.
 </pre>
 
+## Skills
+
+```python
+import requests
+
+token = input("Enter Certificate Token: ")
+response = requests.get("https://api.senarc.org/mta/v1/validate/user/" + token)
+data = response.json()
+
+if data["found"] == True:
+    print(f"Here's your Certificate Data: {data}")
+
+else:
+    print("That is a invalid Certificate Token.")
+```
+
 ## Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BenitzCoding&show_icons=true&theme=gotham" alt="BenitzCoding" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenitzCoding&hide=css,scss&theme=gotham"></p>
