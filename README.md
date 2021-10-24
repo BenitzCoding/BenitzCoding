@@ -3,7 +3,7 @@
 # Introduction
 
 I am a 15 year old Python Developer, I have my own [website](https://benitz.me). I own about 12 Community Discord Servers. *I don't know why.* You can message me in Discord.
-My Discord is `Benitz Original#1317`.
+My Discord is `BenitzCoding#1317`.
 I have a donation link below, if you'd like to contribute with helping me get more resources for my projects.
 Have a nice day!
 
