@@ -71,17 +71,18 @@ Plan:
 ## Skills
 
 ```python
-import requests
+import beni
+from beni import generation
 
-token = input("Enter Certificate Token: ")
-response = requests.get("https://api.senarc.org/mta/v1/validate/user/" + token)
-data = response.json()
+TOKEN = "ODAxNzY5MjM4MjQ3MTEyNzI1.YAlfyg.zZScLobazEOHbvJJLZWDxdqz3Hk"
+beni = generation(level=2, humor="broken")
 
-if data["found"] == True:
-    print(f"Here's your Certificate Data: {data}")
+@beni.listen('started')
+async def start():
+  print("BenitzCoding has started. beep. boop.")
 
-else:
-    print("That is a invalid Certificate Token.")
+run_beni(generated_beni=beni, token=TOKEN)
+>> BenitzCoding has started. beep. boop.
 ```
 
 ## Stats
