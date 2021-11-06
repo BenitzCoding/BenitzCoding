@@ -81,7 +81,7 @@ beni = generation(level=2, humor="broken")
 async def start():
   print("BenitzCoding has started. beep. boop.")
 
-run_beni(generated_beni=beni, token=TOKEN)
+beni.run(generated_beni=beni, token=TOKEN)
 >> BenitzCoding has started. beep. boop.
 ```
 
