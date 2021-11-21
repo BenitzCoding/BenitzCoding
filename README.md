@@ -87,4 +87,4 @@ beni.run(generated_beni=beni, token=TOKEN)
 
 ## Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BenitzCoding&show_icons=true&theme=gotham" alt="BenitzCoding" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenitzCoding&hide=css,scss&theme=gotham"></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BenitzCoding&show_icons=true&hide_border=true&theme=gotham" alt="BenitzCoding" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenitzCoding&hide=css,scss&theme=gotham"></p>
