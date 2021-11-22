@@ -18,7 +18,7 @@ async def command_listener(command, *, args):
 		"args": args
 	}
 	response = requests.post(os.getenv("API") + "/command-handle").json()
-	await beni.respond_with(content=response["message"])
+	await beni.respond_with(content=response["action"])
 	log_payload = {
 		"request_payload": payload,
 		"response_payload": response,
@@ -33,7 +33,7 @@ async def listener(message):
 		"message": message
 	}
 	response = requests.post(os.getenv("API") + "/process-message").json()
-	await beni.respond_with(content=response["message"])
+	await beni.respond_with(content=response["action"])
 	log_payload = {
 		"request_payload": payload,
 		"response_payload": response,
