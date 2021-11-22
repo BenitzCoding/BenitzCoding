@@ -4,7 +4,7 @@ import requests
 from beni import generation
 
 TOKEN = os.getenv()
-beni = generation(version=2.1, debug=True)
+beni = generation(version=2.3, debug=True)
 
 @beni.listen('started')
 async def start():
