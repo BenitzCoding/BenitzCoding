@@ -28,7 +28,7 @@ Have a nice day!
 
 ## Links
 
-<a href="https://discord.gg/5YY3W83YWg">
+<a href="https://senarc.org/discord">
   <img align="left" alt="Senarc's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/BenitzOriginal">
@@ -42,9 +42,9 @@ Have a nice day!
 </a>
 <br><br>
 
-[<img align="center" height="25px" alt="Numix" src="https://user-images.githubusercontent.com/70798458/134344162-bc96aadb-bdda-4b62-9f17-737ddf1c511a.png">   Numix](https://numix.xyz) - A unique and simple Discord bot, with various features.<br><br>
+[<img align="center" height="25px" alt="Senarc" src="https://user-images.githubusercontent.com/70798458/145788871-67b70314-77af-4abf-adf9-7b6217c10738.png">   Senarc](https://senarc.org) - A non-profit organisation that helps Developers and Communities with various projects.<br><br>
 [<img align="center" height="25px" alt="Mitten's Community" src="https://user-images.githubusercontent.com/70798458/134340391-0bb2f1ca-1074-4223-86cf-48b5ec2be0b9.png">   Mitten's Community](https://discord.gg/C8zFM3D2rn) - A community for people to hangout, talk, and make friends!<br><br>
-[<img align="center" height="25px" alt="Orion.py" src="https://user-images.githubusercontent.com/70798458/134341335-661b473f-b8fe-4e05-b461-8e438914c22b.png">   Orion.py](https://discord.gg/C8zFM3D2rn) - A improved API wrapper made in python for Discord!<br><br>
+[<img align="center" height="25px" alt="Fusion.py" src="https://user-images.githubusercontent.com/70798458/134341335-661b473f-b8fe-4e05-b461-8e438914c22b.png">   Orion.py](https://discord.gg/C8zFM3D2rn) - A improved API wrapper made in python for Discord!<br><br>
 [<img align="center" height="25px" alt="MTA" src="https://emoji.discord.st/emojis/0b431e03-4dc3-417e-9b60-660bb763d5fe.png">   Moderation Training Academy (MTA)](https://mta.senarc.org) - Train your Server Moderators and get the MTA Certification Today!<br><br>
 [<img align="center" height="25px" alt="DSC" src="https://user-images.githubusercontent.com/70798458/134344027-15e407ac-e01d-429c-995a-5c0bc5cd3d31.png">   Discord Safety Centre (DSC)](https://safety.senarc.org) - We help people on making their account safe from strangers!
 
