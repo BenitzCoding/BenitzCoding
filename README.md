@@ -14,14 +14,17 @@ Have a nice day!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="20" src"https://user-images.githubusercontent.com/70798458/145787766-5df56fe5-24f1-4873-8ba1-e5688a417b9d.png"></code>
 <br/>
 <code><img height="20" src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png"></code>
 <code><img height="20" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/220px-Repl.it_logo.svg.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/70798458/145787533-e75d8225-bb8f-4e1e-8a0b-6eebb3547edd.png"></code>
 <br/>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Photopea_logo.svg/1200px-Photopea_logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Thunderbird_Logo%2C_2018.svg/1042px-Thunderbird_Logo%2C_2018.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png"></code>
+<code><img height="20" src="https://pgjones.gitlab.io/quart/_static/logo_short.png"></code>
 
 ## Links
 
