@@ -54,17 +54,16 @@ Have a nice day!
 <strong>~ $ cat note.txt</strong>
 1. Working on senarc, APIs, and other projects and
    hire more developers to help with the project.
-3. No-one likes me, I don't know why I do all of thi
+2. No-one likes me, I don't know why I do all of thi
    s... What's the point anymore you know...
   
 <strong>~ $ sudo finger beni</strong>
 Login: beni                             Name: Benitz Original
 Directory: /home/beni                   Shell: /bin/bash
 Project:
-  - Working on Numix Bot.
   - Making Senarc APIs and projects.
-  - Coding Orion.py library.
-  - Making Mittens Community.
+  - Coding Fusion.py library.
+  - Growing The Mittens Community.
   - Providing MTA Certificates.
   - Securing Discors accounts with DSC.
 Plan:
