@@ -50,41 +50,30 @@ Have a nice day!
 
 ## Terminal
 
-<pre>
-<strong>~ $ cat note.txt</strong>
-1. Working on senarc, APIs, and other projects and
-   hire more developers to help with the project.
-2. No-one likes me, I don't know why I do all of thi
-   s... What's the point anymore you know...
-  
-<strong>~ $ sudo finger beni</strong>
-Login: beni                             Name: Benitz Original
-Directory: /home/beni                   Shell: /bin/bash
-Project:
-  - Making Senarc APIs and projects.
-  - Coding Fusion.py library.
-  - Growing The Mittens Community.
-  - Providing MTA Certificates.
-  - Securing Discors accounts with DSC.
-Plan:
-  - Doing something ig ._.
-</pre>
+```bash
+root@brain:~$ export human_api_key=31Asf5m20Gd01V@8%nA
+root@brain:~$ python3 -m benitzcoding start
+Loaded Bianaries & Libraries
+Logged in as "BenitzCoding"
+```
 
 ## Skills
 
 ```python
-import beni
-from beni import generation
+from .custom_func import load_resources
 
 TOKEN = "ODAxNzY5MjM4MjQ3MTEyNzI1.YAlfyg.zZScLobazEOHbvJJLZWDxdqz3Hk"
-beni = generation(level=2, humor="broken")
+beni = generation(level=3)
+
+load_resources()
 
 @beni.listen('started')
 async def start():
-  print("BenitzCoding has started. beep. boop.")
+  print("Logged in as \"BenitzCoding\"")
 
-beni.run(generated_beni=beni, token=TOKEN)
->> BenitzCoding has started. beep. boop.
+beni.run(node_distribution_token=TOKEN)
+>> Loaded Bianaries & Libraries
+>> Logged in as "BenitzCoding"
 ```
 
 ## Stats
