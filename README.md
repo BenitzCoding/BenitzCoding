@@ -37,9 +37,6 @@ Have a nice day!
 <a href="https://benitz.me/">
   <img align="left" alt="Benitz's Website" width="25px" src="https://camo.githubusercontent.com/0b0996800aee1e8abbb91de6257c0fead17b6bb2dab7c94cea5864b0fb2bce6f/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f39362f3030303030302f646f6d61696e2e706e67" />
 </a>
-<a href="https://open.spotify.com/user/5b1az16tfhjc4phhqnjm11dvo?si=dbbb00fa53d24383">
-  <img align="left" alt="Benitz's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 <br><br>
 
 [<img align="center" height="25px" alt="Senarc" src="https://user-images.githubusercontent.com/70798458/145788871-67b70314-77af-4abf-adf9-7b6217c10738.png">   Senarc](https://senarc.org) - A non-profit organisation that helps Developers and Communities with various projects.<br><br>
