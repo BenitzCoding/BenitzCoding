@@ -5,6 +5,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/70798458/185849442-156e8f06-84c0-4c9c-8bbb-1a7e7aeff1cf.png" alt="BenitzCoding" width="320" />
 
 <br/>
+<br/>
 
 ```csharp
 benitzcoding@github.com
@@ -21,6 +22,7 @@ Hobbies: Coding
 Discord: BenitzCoding#1317
 ```
 
+<br/>
 <br/>
 
 ---
