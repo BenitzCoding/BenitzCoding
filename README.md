@@ -2,7 +2,9 @@
 ⋊> ~ neofetch
 ```
 
-<img align="left" src="https://en.gravatar.com/userimage/208065371/5bbe1f9af3af9b8e47dbbd71bc3e220f.png?size=320" alt="BenitzCoding" width="320" /> 
+<img align="left" src="https://user-images.githubusercontent.com/70798458/185849442-156e8f06-84c0-4c9c-8bbb-1a7e7aeff1cf.png" alt="BenitzCoding" width="320" />
+
+<br/>
 
 ```csharp
 benitzcoding@github.com
@@ -18,8 +20,10 @@ Learning: JavaScript, TypeScript
 Hobbies: Coding
 Discord: BenitzCoding#1317
 ```
----
+
 <br/>
+
+---
 
 ```zsh
 ⋊> ~ cat aboutme.txt
