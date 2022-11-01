@@ -10,7 +10,7 @@
 ```csharp
 benitzcoding@github.com
 -------------------------
-OS: macOS 13 x86_64
+OS: macOS 13.1 x86_64
 Shell: fish 3.5.1
 Pronouns: He/Him
 Location: Brunei
