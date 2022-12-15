@@ -10,7 +10,7 @@
 benitzcoding@github.com
 -------------------------
 OS: macOS 13.1 x86_64
-Shell: fish 3.5.1
+Shell: zsh 5.8.1
 Pronouns: He/Him
 Location: Brunei
 Languages: Python, JavaScript,
