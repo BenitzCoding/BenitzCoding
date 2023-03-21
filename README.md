@@ -2,12 +2,12 @@
 ⋊> ~ neofetch
 ```
 
-<img align="left" src="https://user-images.githubusercontent.com/70798458/185849442-156e8f06-84c0-4c9c-8bbb-1a7e7aeff1cf.png" alt="BenitzCoding" width="320" />
+<img align="left" src="https://user-images.githubusercontent.com/70798458/185849442-156e8f06-84c0-4c9c-8bbb-1a7e7aeff1cf.png" alt="Magical Blob" width="320" />
 
 <br/>
 
 ```csharp
-benitzcoding@github.com
+magical.blob@github.com
 -------------------------
 OS: macOS 13.1 x86_64
 Shell: zsh 5.8.1
@@ -18,7 +18,7 @@ Languages: Python, JavaScript,
 Tools: mongoDB, Visual Studio Code
 Learning: JavaScript, TypeScript
 Hobbies: Coding
-Discord: BenitzCoding#1317
+Discord: Magical Blob#1317
 ```
 
 <br/>
