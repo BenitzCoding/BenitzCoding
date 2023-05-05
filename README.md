@@ -5,7 +5,7 @@
 <br/>
 
 ```csharp
-magical.blob@github.com
+benitzcoding@github.com
 -------------------------
 OS: macOS 13.1 x86_64
 Shell: zsh 5.8.1
@@ -16,7 +16,7 @@ Languages: Python, JavaScript,
 Tools: mongoDB, Visual Studio Code
 Learning: JavaScript, TypeScript
 Hobbies: Coding
-Discord: Magical Blob#1317
+Discord: BenitzCoding#0001
 ```
 
 <br/>
