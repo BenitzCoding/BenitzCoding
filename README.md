@@ -16,7 +16,7 @@ Languages: Python, JavaScript,
 Tools: mongoDB, Visual Studio Code
 Learning: JavaScript, TypeScript
 Hobbies: Coding
-Discord: BenitzCoding#0001
+Discord: BenitzCoding#5221
 ```
 
 <br/>
